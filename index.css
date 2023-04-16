@@ -141,13 +141,10 @@ span {
     .lateral {
         order: 2;
     }
-    .servicios {
-        width: 120px;
-    }
     .contenido .servicios {
-        font-size: 15px;
+        width: 250px;
+        font-size: 14px;
         font-weight: 400;
-
     }
 }
 
