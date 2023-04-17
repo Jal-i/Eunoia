@@ -100,7 +100,7 @@ span {
     background-color: #5a7881;
     margin-bottom: 10px;
     flex-basis: 30%;
-    height: 135px;
+    height: 120px;
     background-position: center;
     background-size: cover;
 }
@@ -125,8 +125,6 @@ span {
     font-size: 18px;
     font-weight: 400;
     text-align: center;
-    padding-top: 20px;
-   
 }
 @media (max-width: 705px) {
     body {
@@ -142,7 +140,7 @@ span {
         order: 2;
     }
     .contenido .servicios {
-        padding-top: 40px;
+        padding-top: 30px;
         text-align: center;
         font-size: 14px;
         font-weight: 400;
